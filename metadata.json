@@ -1,0 +1,6 @@
+{
+  "name": "Aura - AI Productivity Companion",
+  "description": "An AI-powered workspace combining a smart study task planner, interactive Pomodoro timer, auto-generating flashcard study tool, and focus notepad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
